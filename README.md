@@ -19,14 +19,8 @@ During this exchange, I combined studies in Social Work and Organizational Psych
 - Academic Mobility Experience Report (PDF)
 - Project documentation (README)
 
-## 🛠 Tools
-
-- Markdown
-- Git
-- GitHub
-
 ## 👩 Author
 
-**Geraldine Alfonzo**
+**Alisson**
 
 Social Work Graduate | Universidad Nacional del Centro del Perú
